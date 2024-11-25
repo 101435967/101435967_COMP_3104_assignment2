@@ -1,1 +1,1 @@
-Your Name\nYour Student ID\nGit repository created from AWS EC2 instance
+Your Tanmay Panchal 101435967_COMP_1204_assignmentw created from AWS EC2 instance
